@@ -1,0 +1,2 @@
+# tstodo
+Estudos typescript
